@@ -439,6 +439,9 @@
     "SettingsFeatureToggleTsunDB" :"傳送資料至TsunDB",
 	"SettingsEnableTsunDBExtraSubmission" : "傳送額外資料",
 
+    "SettingsKCRDBSubmission" : "Send data to the KCRDB (https://kcrdb.hitomaru.dev)",
+    "SettingsEnableKCRDBSubmission" : "Enable and help out",
+
     "SettingsPanelSize": "面板大小",
     "SettingsPanelOpacity": "面板不透明度",
     "SettingsPanelBoxBackColor" : "情報面板背景顏色",

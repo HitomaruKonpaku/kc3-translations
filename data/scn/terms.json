@@ -500,6 +500,9 @@
 	"SettingsEnableTsunDBSubmission" : "提交基本数据",
 	"SettingsEnableTsunDBExtraSubmission" : "提交更多验证数据",
 
+	"SettingsKCRDBSubmission" : "Send data to the KCRDB (https://kcrdb.hitomaru.dev)",
+	"SettingsEnableKCRDBSubmission" : "Enable and help out",
+
 	"SettingsCacheProxy" : "KCCacheProxy缓存服务",
 	"SettingsCacheProxyEnabled" : "启用功能",
 	"SettingsCacheProxyUrl" : "URL路径之前的部分",

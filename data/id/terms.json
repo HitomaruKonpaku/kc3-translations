@@ -395,7 +395,10 @@
 	
 	"SettingsTsunDBSubmission" :"Kirim data ke para Tsundere (https://tsundb.kc3.moe)",
 	"SettingsEnableTsunDBSubmission" : "Gunakan Fitur ini",
-	
+
+	"SettingsKCRDBSubmission" : "Send data to the KCRDB (https://kcrdb.hitomaru.dev)",
+	"SettingsEnableKCRDBSubmission" : "Enable and help out",
+
 	"SettingsPanelSize" : "Ukuran Panel",
 	"SettingsPanelOpacity" : "Transparansi Antarmuka",
 	"SettingsPanelBoxBackColor" : "Warna Belakang Kotak Panel",

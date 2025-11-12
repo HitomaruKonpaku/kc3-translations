@@ -392,9 +392,12 @@
 	
 	"SettingsKC3DBSubmission" :"Отправка данных KC3改 (http://kc3.jetri.co)",
 	"SettingsEnableKC3DBSubmission" : "Включить и помочь",
-	
+
 	"SettingsTsunDBSubmission" :"Отправка данных на Tsunderes (https://tsundb.kc3.moe)",
 	"SettingsEnableTsunDBSubmission" : "Включить и помочь",
+
+	"SettingsKCRDBSubmission" : "Send data to the KCRDB (https://kcrdb.hitomaru.dev)",
+	"SettingsEnableKCRDBSubmission" : "Enable and help out",
 
 	"SettingsPanelSize" : "Размер панели",
 	"SettingsPanelOpacity" : "Непрозрачность",

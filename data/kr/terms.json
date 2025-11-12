@@ -492,7 +492,10 @@
 	"SettingsEnableTsunDBSubmission" : "이 기능 활성화",
 	"SettingsFeatureToggleTsunDB" : "TsunDB에 데이터 전송",
 	"SettingsEnableTsunDBExtraSubmission" : "추가 데이터 활성화하기",
-	
+
+	"SettingsKCRDBSubmission" : "Send data to the KCRDB (https://kcrdb.hitomaru.dev)",
+	"SettingsEnableKCRDBSubmission" : "Enable and help out",
+
 	"SettingsPushAlerts" : "PushBullet에 알림 전송 (https://www.pushbullet.com/)",
 	"SettingsEnablePushAlerts" : "송신하기",
 	"SettingsPushAlertsExpeditionOnly" : "원정 통지",
