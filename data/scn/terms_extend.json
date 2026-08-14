@@ -679,7 +679,7 @@
 	"BattleHistoryClearOption2": "仅斩杀前",
 	"BattleHistoryClearOption3": "仅斩杀后",
 	"BattleHistoryToggleButtonLlabel": "加载收支明细",
-	"BattleHistoryToggleButtonLtip": "在地图名称提示框中显示该出击记录下的资源消费与取得的差值信息\n即使被禁用仍然可以单击地图名单独加载该出击的记录",
+	"BattleHistoryToggleButtonLtip": "在地图名称提示框中显示该出击记录下的资源消费与取得的差值信息\n即使被禁用仍然可以单击地图名单独加载该出击的记录(按住Ctrl时更新缓存)",
 	"BattleHistoryToggleButtonTlabel": "大破/中破标识",
 	"BattleHistoryToggleButtonTtip": "解析记录的战斗数据，显示大破或中破的标识",
 	"BattleHistoryToggleButtonYlabel": "包含夜战标识",
