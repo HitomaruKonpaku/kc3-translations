@@ -399,10 +399,10 @@
 	"SettingsRequestVerifierSortieFleet3BlockedTip": "Confirm before fleet 3 sorties unless it is a full 7-ship Strike Force.",
 	"SettingsRequestVerifierSortieFleet4Blocked": "Warn Fleet 4 Sorties",
 	"SettingsRequestVerifierSortieFleet4BlockedTip": "Confirm before sortie with fleet 4.",
-	"SettingsRequestVerifierExpeShipUnsupplied": "Warn Unsupplied Ships on Expedition",
-	"SettingsRequestVerifierExpeShipUnsuppliedTip": "Confirm before expedition if any ship needs supply.",
-	"SettingsRequestVerifierExpeFleetCombinedIdle": "Warn Combined Fleet on Expedition",
-	"SettingsRequestVerifierExpeFleetCombinedIdleTip": "Confirm when sending fleet 2 to an expedition while it could form a Combined Fleet with fleet 1.",
+	"SettingsRequestVerifierExpedShipUnsupplied": "Warn Unsupplied Ships on Expedition",
+	"SettingsRequestVerifierExpedShipUnsuppliedTip": "Confirm before expedition if any ship needs supply.",
+	"SettingsRequestVerifierExpedFleetCombinedIdle": "Warn Combined Fleet on Expedition",
+	"SettingsRequestVerifierExpedFleetCombinedIdleTip": "Confirm when sending fleet 2 to an expedition while it could form a Combined Fleet with fleet 1.",
 	
 	"SettingsAPIGameScreen" : "Game Window and Screen Overlays",
 	"SettingsQuestOverlay" : "Quest Translations Overlay",
@@ -1129,7 +1129,7 @@
 	"DesktopNotifyQuestsSyncTitle" : "Quests Synchronized!",
 	"DesktopNotifyQuestsSyncMessage" : "Quests and their progress have been updated\nData from {0}",
 
-	"RequestVerifierConfirmTitle" : "Continue with warnings?",
+	"RequestVerifierConfirmTitle" : "Continue with following warnings?\nCancel will get a \"catbomb\", restart game afterward.",
 	"RequestVerifierSortieShipHpThresholdMsg" : "Damaged ships: {0}",
 	"RequestVerifierSortieShipUnsuppliedMsg" : "Unsupplied ships: {0}",
 	"RequestVerifierSortieShipUntagMsg" : "Untagged ships: {0}",
@@ -1139,8 +1139,8 @@
 	"RequestVerifierSortieFleet2BlockedMsg" : "Fleet 2 blocked",
 	"RequestVerifierSortieFleet3BlockedMsg" : "Fleet 3 blocked",
 	"RequestVerifierSortieFleet4BlockedMsg" : "Fleet 4 blocked",
-	"RequestVerifierExpeShipUnsuppliedMsg" : "Unsupplied ships: {0}",
-	"RequestVerifierExpeFleetCombinedIdleMsg" : "Idle Combined Fleet?",
+	"RequestVerifierExpedShipUnsuppliedMsg" : "Unsupplied ships: {0}",
+	"RequestVerifierExpedFleetCombinedIdleMsg" : "Idle Combined Fleet?",
 
 	"Dummy" : "Dummy"
 
