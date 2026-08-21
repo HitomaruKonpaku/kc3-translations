@@ -366,7 +366,7 @@
 	"SettingsPreSortieAlertTip" : "ゲーム出撃確認画面が表示される前、指定艦隊にいくつか基本的な項目のチェックを行います。問題点ある場合はパネルに警告メッセージを表示します。出撃の阻止はしません。",
 	"SettingsRequestVerifier" : "誤操作警告とブロッカー",
 	"SettingsRequestVerifierEnabled"    : "誤操作ブロッカー有効",
-	"SettingsRequestVerifierEnabledTip" : "出撃や遠征に誤操作が検知されて、確認質問にキャンセルを押せばそれを阻止できます。その場合はゲームが猫画面になり、実際データ送信される前なので、艦隊に一切影響はありません。リロードして再起動する必要がありますが…。\n無効にすれば以下の確認を一切行わず、もちろん阻止もしません。",
+	"SettingsRequestVerifierEnabledTip" : "出撃や遠征に誤操作が検知されて、確認質問にキャンセルを押せばそれを阻止できます。その場合はゲームが猫画面になり、実際データ送信される前なので、艦隊に一切影響はありません。リロードして再起動する必要がありますが…。\n無効にすれば以下の確認を一切行わず、もちろん阻止もしません。\nもしゲーム既に起動した状態で有効するにはゲームを再起動する必要があります。",
 	"SettingsRequestVerifierShipUnlockIgnore"    : "未ロック艦を無視",
 	"SettingsRequestVerifierShipUnlockIgnoreTip" : "ハートロックをかかった艦娘のみが以下チェックに参照されます。",
 	"SettingsRequestVerifierSortieShipHpThreshold"    : "艦娘の耐久状態を確認",

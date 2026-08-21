@@ -431,7 +431,7 @@
 	"SettingsPreSortieAlertTip" : "进入游戏出击确认画面之前就对指定舰队进行若干项基本检查，发现问题时仅在信息面板中弹出警告消息。不会中断出击请求。",
 	"SettingsRequestVerifier" : "误操作警报与请求中断",
 	"SettingsRequestVerifierEnabled" : "中断误操作请求",
-	"SettingsRequestVerifierEnabledTip" : "在实际点击出击或远征按钮触发网络请求时，进行下列设定项目的检查。如果在弹出的提示框中选择“取消”，就会中断网络请求，阻止误操作发生，防止误贴条或保存舰娘士气。但是游戏会立即进入猫错误画面，需要重新加载页面重启游戏。\n如果禁用该项，所有检查不会进行，当然也不会中断请求。",
+	"SettingsRequestVerifierEnabledTip" : "在实际点击出击或远征按钮触发网络请求时，进行下列设定项目的检查。如果在弹出的提示框中选择“取消”，就会中断网络请求，阻止误操作发生，防止误贴条或保存舰娘士气。但是游戏会立即进入猫错误画面，需要重新加载页面重启游戏。\n如果禁用该项，所有检查不会进行，当然也不会中断请求。\n如果启用该项时游戏已经启动，需要重启游戏才能生效。",
 	"SettingsRequestVerifierShipUnlockIgnore" : "忽略未锁定的舰娘",
 	"SettingsRequestVerifierShipUnlockIgnoreTip" : "仅检查舰队中被锁定的舰娘。",
 	"SettingsRequestVerifierSortieShipHpThreshold" : "检查舰娘HP耐久值",
