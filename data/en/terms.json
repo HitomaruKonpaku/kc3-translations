@@ -375,7 +375,7 @@
 	"SettingsPreSortieAlertTip" : "Do some basic checks only on specified fleet before in-game sortie confirmation screen, pop-up alert message in panel if necessary. No requests will be blocked.\nPossible to quickly toggle on panel fleet switching with holding Alt key.",
 	"SettingsRequestVerifier": "Request Verifier and Blocker",
 	"SettingsRequestVerifierEnabled": "Enable Verifier and Blocker",
-	"SettingsRequestVerifierEnabledTip": "Cat Bomb will be occured if your operation is confirmed to be blocked on sortie/expedition actually requested. Due to API request not sent to game server, no morale or tag of ships should be affected by such catbombs.\nTurning this off disables all checks below, and no blocking will happen.\nTurning this on needs reloading the game to take effect if the game has started already.",
+	"SettingsRequestVerifierEnabledTip": "Cat Bomb will be occured if your operation is confirmed to be blocked on sortie/expedition actually requested. Due to API request not sent to game server, no morale or tag of ships should be affected by such catbombs.\nTurning this off disables all checks below, and no blocking will happen.",
 	"SettingsRequestVerifierShipUnlockIgnore": "Ignore Unlocked Ships",
 	"SettingsRequestVerifierShipUnlockIgnoreTip": "Only check locked ships for the warnings below; unlocked ships are skipped.",
 	"SettingsRequestVerifierSortieShipHpThreshold": "Warn Ships by HP",
